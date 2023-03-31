@@ -5,7 +5,7 @@
 * 🔭 I'm practicing coding in python and java languages.
 ---
 ![](https://github-readme-stats.vercel.app/api?username=wareewan-opal&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wareewan-opal&theme=jolly&hide_border=false)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wareewan-opal&theme=jolly&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wareewan-opal&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
